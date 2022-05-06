@@ -1,3 +1,4 @@
+<img src="./logo2.svg">
 ### Hi there 👋  
 Dilaing this in 🥴
 
