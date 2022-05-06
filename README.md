@@ -4,13 +4,17 @@
  
 
 <p style="color:#29f279;font-weight:700;font-size:30px" align="center">
-    WORK IN PROGRESS....
+    WORK IN PROGRESS...
 </p>
 
 &nbsp;  
 &nbsp;  
 &nbsp; 
 &nbsp; 
+
+<p style="color:#29f279;font-size:315x" align="center">
+  TECH I HAVE USED
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
