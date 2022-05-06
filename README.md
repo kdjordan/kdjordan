@@ -1,8 +1,11 @@
 <p align="center">
   <img src="./logo2.svg" width="250px" style="fill:#29f279;">
- </p>  
+</p>  
  
-<p align="center"><h2>WORK IN PROGRESS....</h2></p>
+<p align="center">
+  <h2>WORK IN PROGRESS....</h2>
+</p>  
+
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
