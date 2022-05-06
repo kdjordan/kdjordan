@@ -1,6 +1,6 @@
-<center>
+<p align="center">
   <img src="./logo2.svg" width="500px">
- </center>
+ </p>
 ### Hi there 👋  
 Dilaing this in 🥴
 
