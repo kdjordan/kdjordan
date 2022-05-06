@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo2.svg" width="500px" style="fill:#29f279;">
+  <img src="./logo2.svg" width="250px" style="fill:#29f279;">
  </p>
 ### Hi there 👋  
 Dilaing this in 🥴
