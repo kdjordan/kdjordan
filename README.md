@@ -3,7 +3,7 @@
 </p>  
  
 
-<p style="color:29f279;font-weight:700;font-size:20px" align="center">
+<p style="color:#29f279;font-weight:700;font-size:30px" align="center">
     WORK IN PROGRESS....
 </p>
 
