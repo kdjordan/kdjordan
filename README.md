@@ -1,4 +1,4 @@
-<img src="./logo2.svg">
+<img src="./logo2.svg" width="500px">
 ### Hi there 👋  
 Dilaing this in 🥴
 
