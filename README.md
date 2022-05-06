@@ -1,4 +1,6 @@
-<img src="./logo2.svg" width="500px">
+<center>
+  <img src="./logo2.svg" width="500px">
+ </center>
 ### Hi there 👋  
 Dilaing this in 🥴
 
