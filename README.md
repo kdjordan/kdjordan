@@ -2,9 +2,9 @@
   <img src="./logo2.svg" width="250px" style="fill:#29f279;">
 </p>  
  
-<p align="center" style="font-size:2rem'">
-  WORK IN PROGRESS....  
-</p>  
+<h2 align="center" style="font-size:2rem'">
+  <span style="color:#29f279;"><font size="4">WORK IN PROGRESS.... </font></span>
+</h2>  
 
 
 
