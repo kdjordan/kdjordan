@@ -2,8 +2,8 @@
   <img src="./logo2.svg" width="250px" style="fill:#29f279;">
 </p>  
  
-<p align="center">
-  ###WORK IN PROGRESS....  
+<p align="center" style="font-size:2rem'">
+  WORK IN PROGRESS....  
 </p>  
 
 
