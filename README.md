@@ -3,9 +3,9 @@
 </p>  
  
 
-<span style="color:29f279;font-weight:700;font-size:20px">
+<div style="color:29f279;font-weight:700;font-size:20px">
     WORK IN PROGRESS....
-</span>
+</div>
 
 
 
