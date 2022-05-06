@@ -3,7 +3,7 @@
 </p>  
  
 <h2 align="center" style="font-size:2rem'">
-  <span style="color:#29f279;"><font size="4">WORK IN PROGRESS.... </font></span>
+  <span style="color:#29f279;">WORK IN PROGRESS....</span>
 </h2>  
 
 
