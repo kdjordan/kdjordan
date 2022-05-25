@@ -10,7 +10,7 @@
 &nbsp;  
 
 <p style="color:#29f279;font-size:315x" align="center">
-  TECH I HAVE USED
+  TECHS
 </p>
 
 <p>
