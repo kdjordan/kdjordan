@@ -9,7 +9,7 @@
  
 
 <p style="color:#29f279;font-weight:700;font-size:30px" align="center">
-    WORK IN PROGRESS...
+    WE ARE ALL WORKS IN PROGRESS 
 </p>
 
 &nbsp;  
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/React.js-f34f28?style=for-the-badge&logo=react&logoColor=58c4dc" />
   <img src="https://img.shields.io/badge/HTML5-e44d25?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-264ce4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
