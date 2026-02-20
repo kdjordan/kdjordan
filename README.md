@@ -6,11 +6,6 @@
 <p align="center">
   <img src="./logo2.svg" width="250px" style="fill:#29f279;">
 </p>  
- 
-
-<p style="color:#29f279;font-weight:700;font-size:30px" align="center">
-    WE ARE ALL WORKS IN PROGRESS 
-</p>
 
 &nbsp;  
 
