@@ -29,4 +29,4 @@ TypeScript · Node · Python · React · Claude Agent SDK · MCP · Docker · AW
 
 ## Reach
 
-[LinkedIn](https://linkedin.com/in/kevin-jordan-46aa5599) · k.dean.jordan@gmail.com
+[LinkedIn](https://linkedin.com/in/kevin-dean-jordan) · k.dean.jordan@gmail.com
