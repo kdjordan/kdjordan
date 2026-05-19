@@ -11,7 +11,8 @@ Director, US Domestic at BTS (wholesale VoIP carrier). Independent AI engineer b
 
 ## Public
 
-- [voipaccelerator](https://github.com/kdjordan/voipaccelerator) — Rate deck comparison + generation for NPA-NXX and A-Z decks. NPA / population-center / state filtering, active LERG lookups.
+- [voipaccelerator](https://voipaccelerator.com) — Rate deck comparison + generation for NPA-NXX and A-Z decks. NPA / population-center / state filtering, active LERG lookups.
+- [reconcileCDR](https://reconcilecdr.com) — CDR reconciliation engine combining deterministic DB based matching with AI assisted analysis and report generation.
 
 ## Domain
 
