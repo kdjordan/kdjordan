@@ -22,7 +22,7 @@ Wholesale VoIP: STIR/SHAKEN, ITG traceback, fraud detection, FCC enforcement, CD
 
 TypeScript · Node · Python · React · Claude Agent SDK · MCP · Docker · AWS · Hetzner
 
-## Credentials
+## Cred
 
 - Claude Certified Architect – Foundations (in progress)
 - Anthropic Partner Network (application in review)
